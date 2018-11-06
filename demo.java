@@ -6,7 +6,11 @@ void Add()
      a+b
 }
 
+void Sub()
 
+{
+       a-b
+}
 
 	void Deposite()
 
