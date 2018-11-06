@@ -1,5 +1,13 @@
 class Demo
 {
+
+void Add()
+{
+     a+b
+}
+
+
+
 	void Deposite()
 
 	{
